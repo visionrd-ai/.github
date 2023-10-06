@@ -1,9 +1,8 @@
 <p align="center">
   <a href="[https://ultralytics.com/](https://visionrdai.com/)">
-  <img width="900" src="https://github.com/visionrd-ai/.github/assets/145563962/6987822e-84cd-4eb4-8441-6e2cdd391df1
-"></a>
+  <img width="900" src="https://github.com/visionrd-ai/.github/assets/145563962/6987822e-84cd-4eb4-8441-6e2cdd391df1">
+  </a> 
 </p>
-
 <div align="center">
 
 At [Ultralytics](https://ultralytics.com), we are dedicated to creating the best artificial intelligence models in the world. Our open source works here on GitHub offer cutting-edge solutions for a wide range of AI tasks, including [detection](https://docs.ultralytics.com/tasks/detect/), [segmentation](https://docs.ultralytics.com/tasks/segment/), [classification](https://docs.ultralytics.com/tasks/classify/), [tracking](https://docs.ultralytics.com/modes/track/) and [pose estimation](https://docs.ultralytics.com/tasks/pose/).
