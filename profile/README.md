@@ -12,7 +12,7 @@ At [VisionRD](https://visionrdai.com/), we are utilizing cutting-edge artificial
 VisionRD is also working on innovative products like ADAS/AD and IntelliSentry that will enhance the safety of driving in the future.
 
 We welcome [contributions](https://github.com/visionrd-ai/Pins-Defect-Detection) from the community.
-Join us on our mission to push the boundaries of AI and make it accessible to everyone!
+Join us on our mission of driving Innovation and Efficiency in the Automotive Industry.
 
 <br>
 
