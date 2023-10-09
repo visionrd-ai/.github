@@ -9,8 +9,9 @@
 
 At [VisionRD](https://visionrdai.com/), we are utilizing cutting-edge artificial intelligence (AI) technologies to carry out accurate and effective quality inspections during the manufacturing process, resulting in a 50% reduction in time and a 90% improvement in the quality of car parts inspection.
 
-We welcome [contributions](https://github.com/visionrd-ai/Pins-Defect-Detection)) from the community and are always eager to hear from users with [feature requests](https://github.com/ultralytics/ultralytics/issues/new/choose) and [bug reports](https://github.com/ultralytics/ultralytics/issues/new/choose). If you're looking for state-of-the-art AI [models](https://github.com/ultralytics/ultralytics/tree/main/ultralytics/models) that are fast, accurate, and easy to use, Ultralytics is the place to be. 
+VisionRD is also working on innovative products like ADAS/AD and IntelliSentry that will enhance the safety of driving in the future.
 
+We welcome [contributions](https://github.com/visionrd-ai/Pins-Defect-Detection) from the community.
 Join us on our mission to push the boundaries of AI and make it accessible to everyone!
 
 <br>
