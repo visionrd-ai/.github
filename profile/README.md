@@ -6,15 +6,8 @@
 <div align="center">
 
 
-<br
-  <p align="center">
-  <a href="https://ultralytics.com/">
-  <img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a>
-</p>
 
-<div align="center">
-
-At [Ultralytics](https://ultralytics.com), we are dedicated to creating the best artificial intelligence models in the world. Our open source works here on GitHub offer cutting-edge solutions for a wide range of AI tasks, including [detection](https://docs.ultralytics.com/tasks/detect/), [segmentation](https://docs.ultralytics.com/tasks/segment/), [classification](https://docs.ultralytics.com/tasks/classify/), [tracking](https://docs.ultralytics.com/modes/track/) and [pose estimation](https://docs.ultralytics.com/tasks/pose/).
+At [VisionRD]([https://ultralytics.com](https://visionrdai.com/)), we are utilizing cutting-edge artificial intelligence (AI) technologies to carry out accurate and effective quality inspections during the manufacturing process, resulting in a 50% reduction in time and a 90% improvement in the quality of car parts inspection.
 
 We welcome [contributions](https://github.com/ultralytics/ultralytics#contribute) from the community and are always eager to hear from users with [feature requests](https://github.com/ultralytics/ultralytics/issues/new/choose) and [bug reports](https://github.com/ultralytics/ultralytics/issues/new/choose). If you're looking for state-of-the-art AI [models](https://github.com/ultralytics/ultralytics/tree/main/ultralytics/models) that are fast, accurate, and easy to use, Ultralytics is the place to be. 
 
