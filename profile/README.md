@@ -16,10 +16,13 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
 
 <br>
 
- <a href="https://github.com/ultralytics" style="text-decoration:none;">
+<a href="https://github.com/ultralytics" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="" /></a>
- <a href="https://www.linkedin.com/company/visionrd-ai/" style="text-decoration:none;">
-    <img src="https://www.linkedin.com/company/visionrd-ai/assets/raw/main/social/logo-transparent.png" width="3%" alt="" /></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
+  
+<a href="https://github.com/ultralytics" style="text-decoration:none;">
+    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="" /></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
 
   
   
