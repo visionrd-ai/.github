@@ -32,7 +32,7 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%" alt="" /></a>
     
 <a href="https://youtube.com/@Visionrdai?si=NRP2Tqq2p8_hZZK4" style="text-decoration:none;">
-    <img src="https://drive.google.com/file/d/1o5mS8gOgwogYF3zfNev_Pl8owTWfMa_A/view" width="3%" alt="" /></a>
+    <img src=""C:\Users\Dell Latitude\Downloads\YouTube.png"" width="3%" alt="" /></a>
 
     
 
