@@ -26,7 +26,7 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
     <img src="C:\Users\Dell Latitude\Downloads\Github\Instagram.png" width="3%" alt="" /></a>
     
 <a href="https://twitter.com/Visionrd_ai" style="text-decoration:none;">
-    <img src="file:///C:/Users/Dell%20Latitude/Downloads/Facebook.webp" width="3%" alt="" /></a>
+    <img src="C:\Users\Dell Latitude\Downloads\Github\Linkedin.png" width="3%" alt="" /></a>
 
 <a href="https://www.facebook.com/visionrdai/" style="text-decoration:none;">
     <img src="https://e7.pngegg.com/pngimages/201/462/png-clipart-computer-icons-facebook-facebook-logo-black-and-white-thumbnail.png" width="3%" alt="" /></a>
