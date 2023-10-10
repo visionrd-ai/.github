@@ -29,7 +29,7 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%" alt="" /></a>
 
 <a href="https://www.facebook.com/visionrdai/" style="text-decoration:none;">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dfacebook&psig=AOvVaw2tGF9ONYbgBXfWxa1DHSmf&ust=1697051454681000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjvpL-X7IEDFQAAAAAdAAAAABAE" width="3%" alt="" /></a>
+    <img src="https://w7.pngwing.com/pngs/69/315/png-transparent-computer-icons-facebook-inc-logo-facebook-blue-text-rectangle-thumbnail.png"3%" alt="" /></a>
     
 <a href="https://youtube.com/@Visionrdai?si=NRP2Tqq2p8_hZZK4" style="text-decoration:none;">
     <img src="C:\Users\Dell Latitude\Downloads\YouTube.png" width="3%" alt="" /></a>
