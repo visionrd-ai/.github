@@ -25,7 +25,7 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
 <a href="https://www.instagram.com/visionrdai/" style="text-decoration:none;">
     <img src="C:\Users\Dell Latitude\Downloads\Github\Instagram.png" width="3%" alt="" /></a>
     
-<a href="https://twitter.com/Visionrd_ai" style="text-decoration:none;">
+<a href="https://github.com/visionrd-ai/.github/assets/145563962/fd927041-fb24-433b-9538-c4b5ed5804c4" style="text-decoration:none;">
     <img src="C:\Users\Dell Latitude\Downloads\Github\Linkedin.png" width="3%" alt="" /></a>
 
 <a href="https://www.facebook.com/visionrdai/" style="text-decoration:none;">
@@ -34,10 +34,7 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
 <a href="https://youtube.com/@Visionrdai?si=NRP2Tqq2p8_hZZK4" style="text-decoration:none;">
     <img src="C:\Users\Dell Latitude\Downloads\YouTube.png" width="3%" alt="" /></a>
 
-    
-
-  
-  
+ 
 </div>
 
 
