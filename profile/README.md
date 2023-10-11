@@ -23,7 +23,10 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%" alt="" /></a>
 
 <a href="https://www.instagram.com/visionrdai/" style="text-decoration:none;">
-    <img src="C:\Users\Dell Latitude\Downloads\Github\Instagram.png" width="3%" alt="" /></a>
+    <img src="https://github.com/visionrd-ai/.github/assets/145563962/4b0ff9a3-6a41-4bfe-a45c-b57233aaa589" width="3%" alt="" /></a>
+
+
+
     
 <a href="https://github.com/visionrd-ai/.github/assets/" style="text-decoration:none;">
     <img src="C:\Users\Dell Latitude\Downloads\Github\Linkedin.png" width="3%" alt="" /></a>
