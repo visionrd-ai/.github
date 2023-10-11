@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://ultralytics.com/">
-  <img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a>
+  <img width="900" src="https://github.com/visionrd-ai/.github/assets/145563962/79a92550-c2e4-49f3-8229-bfe6545e54ea"></a>
 </p>
+
 
 <div align="center">
 
