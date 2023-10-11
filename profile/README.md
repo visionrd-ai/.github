@@ -1,10 +1,10 @@
 <p align="center">
   <a href="[https://ultralytics.com/](https://visionrdai.com/)">
+    
   <img width="900" src=https://github.com/visionrd-ai/.github/assets/145563962/98040ae0-2e22-407c-9248-0d43d5c8327e">
 </a> 
 </p>
 <div align="center">
-
 
 
 At [VisionRD](https://visionrdai.com/), we are utilizing cutting-edge artificial intelligence (AI) technologies to carry out accurate and effective quality inspections during the manufacturing process, resulting in a 50% reduction in time and a 90% improvement in the quality of car parts inspection.
@@ -18,6 +18,8 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
 
 <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
     <img src="https://github.com/visionrd-ai/.github/assets/145563962/4b0ff9a3-6a41-4bfe-a45c-b57233aaa589"width="3%" alt="" /></a>
+
+    
   
 <a href="https://www.linkedin.com/company/visionrd-ai/" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%" alt="" /></a>
@@ -32,11 +34,9 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
     <img src="C:\Users\Dell Latitude\Downloads\Github\Linkedin.png" width="3%" alt="" /></a>
 
 <a href="https://www.facebook.com/visionrdai/" style="text-decoration:none;">
-    <img src="https://e7.pngegg.com/pngimages/201/462/png-clipart-computer-icons-facebook-facebook-logo-black-and-white-thumbnail.png" width="3%" alt="" /></a>
-    
+    <img src="https://github.com/visionrd-ai/.github/assets/145563962/84bf02fd-a69c-453d-82cf-8fb4465c1768" width="3%" alt="" /></a>
 <a href="https://youtube.com/@Visionrdai?si=NRP2Tqq2p8_hZZK4" style="text-decoration:none;">
-    <img src="C:\Users\Dell Latitude\Downloads\YouTube.png" width="3%" alt="" /></a>
-
+    <img src="https://github.com/visionrd-ai/.github/assets/145563962/b154c236-2fc8-4dfc-b0b1-6d7421018b9b" width="3%" alt="" /></a                                                            
  
 </div>
 
