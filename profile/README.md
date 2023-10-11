@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="[https://ultralytics.com/](https://visionrdai.com/)">
-    
-  <img width="900" src=https://github.com/visionrd-ai/.github/assets/145563962/b154c236-2fc8-4dfc-b0b1-6d7421018b9b">
-  
-</a> 
+  <a href="https://ultralytics.com/">
+  <img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a>
 </p>
+
 <div align="center">
 
 
