@@ -17,12 +17,13 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
 <br>
 
 <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
-    <img src="https://github.com/visionrd-ai/.github/assets/145563962/4b0ff9a3-6a41-4bfe-a45c-b57233aaa589"width="3%" alt="" /></a>
-
-    
+    <img src="https://github.com/visionrd-ai/.github/assets/145563962/320c69e5-3139-44fc-b70c-bc4f941d7a02"width="3%" alt="" /></a>
   
 <a href="https://www.linkedin.com/company/visionrd-ai/" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%" alt="" /></a>
+    <img src=" https://github.com/visionrd-ai/.github/assets/145563962/5174b195-7676-42e8-a1f6-4fcbe82cef58" width="3%" alt="" /></a>
+
+   
+
 
 <a href="https://www.instagram.com/visionrdai/" style="text-decoration:none;">
     <img src="https://github.com/visionrd-ai/.github/assets/145563962/4b0ff9a3-6a41-4bfe-a45c-b57233aaa589" width="3%" alt="" /></a>
@@ -35,6 +36,7 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
 
 <a href="https://www.facebook.com/visionrdai/" style="text-decoration:none;">
     <img src="https://github.com/visionrd-ai/.github/assets/145563962/84bf02fd-a69c-453d-82cf-8fb4465c1768" width="3%" alt="" /></a>
+    
 <a href="https://youtube.com/@Visionrdai?si=NRP2Tqq2p8_hZZK4" style="text-decoration:none;">
     <img src="https://github.com/visionrd-ai/.github/assets/145563962/b154c236-2fc8-4dfc-b0b1-6d7421018b9b" width="3%" alt="" /></a                                                            
  
