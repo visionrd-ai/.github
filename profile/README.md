@@ -17,7 +17,7 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
 <br>
 
 <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="" /></a>
+    <img src="https://github.com/visionrd-ai/.github/assets/87422803/fd2f7977-6e6c-4133-9af7-cd5722a434dc" width="3%" alt="" /></a>
   
 <a href="https://www.linkedin.com/company/visionrd-ai/" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%" alt="" /></a>
