@@ -18,6 +18,7 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
 
 <a href="https://www.linkedin.com/company/visionrd-ai/" style="text-decoration:none;">
     <img src="https://github.com/visionrd-ai/.github/assets/145563962/080ed0a3-5751-4617-8f2c-8a793273c271" width="3%" alt="" /></a>
+      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
 <a href="https://www.instagram.com/visionrdai/" style="text-decoration:none;">
     <img src="https://github.com/visionrd-ai/.github/assets/145563962/4b0ff9a3-6a41-4bfe-a45c-b57233aaa589" width="3%" alt="" /></a>
 
@@ -25,7 +26,6 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
     <img src="https://github.com/visionrd-ai/.github/assets/145563962/84bf02fd-a69c-453d-82cf-8fb4465c1768" width="3%" alt="" /></a>
     <a href="https://twitter.com/Visionrd_ai/" style="text-decoration:none;">
        <img src="https://github.com/visionrd-ai/.github/assets/145563962/acb61e21-0eae-495c-9725-20ae70b025ba" width="3%" alt="" /></a>
-      
 
     
 <a href="https://youtube.com/@Visionrdai?si=NRP2Tqq2p8_hZZK4" style="text-decoration:none;">
