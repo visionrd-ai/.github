@@ -30,15 +30,6 @@ Join us on our mission of driving Innovation and Efficiency in the Automotive In
 <a href="https://youtube.com/@Visionrdai?si=NRP2Tqq2p8_hZZK4" style="text-decoration:none;">
     <img src="https://github.com/visionrd-ai/.github/assets/145563962/b154c236-2fc8-4dfc-b0b1-6d7421018b9b" width="3%" alt="" /></a                                                            
 
-(<img alt="alt_text" width="40px" src="utils/Linkedin.png" />)(https://www.linkedin.com/company/visionrd-ai/)
-[<img alt="alt_text" width="40px" src="utils/Instagram.png" />]
-(https://www.instagram.com/visionrdai/)
-[<img alt="alt_text" width="40px" src="utils/Facebook.png" />]
-(https://www.facebook.com/visionrdai/)
-[<img alt="alt_text" width="40px" src="utils/Twitter.png" />]
-(https://twitter.com/Visionrd_ai/)
-[<img alt="alt_text" width="40px" src="utils/YouTube.png" />]
-(https://www.youtube.com/@Visionrdai/)
 </div>
 
 
