@@ -14,10 +14,10 @@ VisionRD is also working on innovative products like ADAS/AD and IntelliSentry t
 We welcome [contributions](https://github.com/visionrd-ai/Pins-Defect-Detection) from the community.
 Join us on our mission of driving Innovation and Efficiency in the Automotive Industry.
 
-[<img alt="alt_text" width="40px" src="../utils/Linkedin.png" />](https://www.linkedin.com/company/visionrd-ai/)
-[<img alt="alt_text" width="40px" src="../utils/Instagram.png" />](https://www.instagram.com/visionrdai/)
-[<img alt="alt_text" width="40px" src="../utils/Facebook.png" />](https://www.facebook.com/visionrdai/)
-[<img alt="alt_text" width="40px" src="../utils/Twitter.png" />](https://twitter.com/Visionrd_ai/)
-[<img alt="alt_text" width="40px" src="../utils/YouTube.png" />](https://www.youtube.com/@Visionrdai/)
+[<img alt="alt_text" width="40px" src="Linkedin.png" />](https://www.linkedin.com/company/visionrd-ai/)
+[<img alt="alt_text" width="40px" src="Instagram.png" />](https://www.instagram.com/visionrdai/)
+[<img alt="alt_text" width="40px" src="Facebook.png" />](https://www.facebook.com/visionrdai/)
+[<img alt="alt_text" width="40px" src="Twitter.png" />](https://twitter.com/Visionrd_ai/)
+[<img alt="alt_text" width="40px" src="YouTube.png" />](https://www.youtube.com/@Visionrdai/)
 
 
