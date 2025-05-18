@@ -9,7 +9,7 @@
 
 At [VisionRD](https://visionrdai.com/), we want to build AI that helps whole of humanity.
 
-We welcome contributionsfrom the community.
+We welcome contributions from the community.
 
 [<img alt="alt_text" width="40px" src="Linkedin.png" />](https://www.linkedin.com/company/visionrd-ai/)
 [<img alt="alt_text" width="40px" src="Instagram.png" />](https://www.instagram.com/visionrdai/)
