@@ -7,12 +7,9 @@
 <div align="center">
 
 
-At [VisionRD](https://visionrdai.com/), we are utilizing cutting-edge artificial intelligence (AI) technologies to carry out accurate and effective quality inspections during the manufacturing process, resulting in a 50% reduction in time and a 90% improvement in the quality of car parts inspection.
+At [VisionRD](https://visionrdai.com/), we want to build AI that helps whole of humanity.
 
-VisionRD is also working on innovative products like ADAS/AD and IntelliSentry that will enhance the safety of driving in the future.
-
-We welcome [contributions](https://github.com/visionrd-ai/Pins-Defect-Detection) from the community.
-Join us on our mission of driving Innovation and Efficiency in the Automotive Industry.
+We welcome contributionsfrom the community.
 
 [<img alt="alt_text" width="40px" src="Linkedin.png" />](https://www.linkedin.com/company/visionrd-ai/)
 [<img alt="alt_text" width="40px" src="Instagram.png" />](https://www.instagram.com/visionrdai/)
