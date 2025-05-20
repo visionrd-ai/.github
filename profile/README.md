@@ -27,6 +27,34 @@ We are a team of machine learning engineers, computer vision researchers, and so
 
 ---
 
+## 📊 Visual Impact
+
+<p align="center">
+  <img width="500" src="https://github.com/visionrd-ai/.github/assets/145563962/sample-ai-stats.png" alt="AI Performance Chart">
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/visionrd-ai/.github/assets/145563962/sample-inspection-flow.png" alt="Inspection Workflow">
+</p>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=visionrd-ai&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionrd-ai&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img width="600" src="https://streak-stats.demolab.com?user=visionrd-ai&theme=radical&border_radius=5.5" alt="GitHub Streak">
+</p>
+
+---
+
 ## 🧠 Why VisionRD?
 
 * 🔍 **High Accuracy**: Models trained on real-world data from production lines, not synthetic test sets.
