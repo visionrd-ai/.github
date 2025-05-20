@@ -36,30 +36,11 @@ We are a team of machine learning engineers, computer vision researchers, and so
 
 ---
 
+
 ## 📊 GitHub Insights
 
 <p align="center">
-  <a href="https://github.com/visionrd-ai">
-    <img src="https://github-readme-stats.vercel.app/api?username=visionrd-ai&show_icons=true&theme=awesome&include_all_commits=true&count_private=true" alt="VisionRD GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/visionrd-ai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionrd-ai&layout=compact&theme=awesome&langs_count=10" alt="VisionRD Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/visionrd-ai">
-    <img src="https://github-profile-trophy.vercel.app/?username=visionrd-ai&theme=algolia&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="VisionRD GitHub Trophies" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/visionrd-ai/visionrd-ai/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/visionrd-ai/visionrd-ai/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 
