@@ -29,17 +29,17 @@ We are a team of machine learning engineers, computer vision researchers, and so
 
 ## 🧠 Why VisionRD?
 
-* 🔍 **High Accuracy**: Models trained on real-world data from production lines, not synthetic test sets.
-* ⚙️ **Production Ready**: Built to run in live environments with milliseconds latency.
-* 🌐 **Scalable Infrastructure**: Supports edge devices and cloud deployment.
-* ❤️ **Human-Centered**: Augments teams with AI, doesn’t replace them.
+* 🔍 **High Accuracy**: Models trained on real-world data from production lines, not synthetic test sets.  
+* ⚙️ **Production Ready**: Built to run in live environments with milliseconds latency.  
+* 🌐 **Scalable Infrastructure**: Supports edge devices and cloud deployment.  
+* ❤️ **Human-Centered**: Augments teams with AI, doesn’t replace them.  
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0DFF92&lines=Empowering+Industry+with+AI;Real-time+Vision+AI+for+Manufacturing;Deploying+AI+Where+It+Matters+Most" alt="VisionRD AI Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&lines=Empowering+Industry+with+AI;Real-time+Vision+AI+for+Manufacturing;Deploying+AI+Where+It+Matters+Most" alt="VisionRD AI Typing Animation" />
 </p>
 
 <p align="center">
