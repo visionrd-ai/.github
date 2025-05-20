@@ -39,19 +39,24 @@ We are a team of machine learning engineers, computer vision researchers, and so
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github.com/visionrd-ai/visionrd-ai/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0DFF92&lines=Empowering+Industry+with+AI;Real-time+Vision+AI+for+Manufacturing;Deploying+AI+Where+It+Matters+Most" alt="VisionRD AI Typing Animation" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/assets/main/snake-loaders/pulse-3.svg" width="300" alt="AI Pulse Animation" />
+</p>
+
+---
 
 ## 👨‍👩‍👧‍👦 Our Team
 
 We are a small and dedicated group of:
 
-* 👩‍💻 Deep Learning Researchers
-* 🧠 AI Engineers
-* 🔧 Embedded Systems Developers
-* 📷 Computer Vision Experts
-* 🎯 Product and UX Designers
+* 👩‍💻 Deep Learning Researchers  
+* 🧠 AI Engineers  
+* 🔧 Embedded Systems Developers  
+* 📷 Computer Vision Experts  
+* 🎯 Product and UX Designers  
 
 Each team member brings world-class talent and real-world experience, united by a shared mission: **Build AI that works in reality — not just theory.**
 
