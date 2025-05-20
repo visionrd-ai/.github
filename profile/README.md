@@ -36,15 +36,13 @@ We are a team of machine learning engineers, computer vision researchers, and so
 
 ---
 
-## 📊 GitHub Insights
+## 🎯 Our Goal
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&lines=Empowering+Industry+with+AI;Real-time+Vision+AI+for+Manufacturing;Deploying+AI+Where+It+Matters+Most" alt="VisionRD AI Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/assets/main/snake-loaders/pulse-3.svg" width="300" alt="AI Pulse Animation" />
-</p>
+
 
 ---
 
