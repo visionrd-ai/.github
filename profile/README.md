@@ -27,40 +27,25 @@ We are a team of machine learning engineers, computer vision researchers, and so
 
 ---
 
-## 📊 Visual Impact
-
-<p align="center">
-  <img width="500" src="https://github.com/visionrd-ai/.github/assets/145563962/sample-ai-stats.png" alt="AI Performance Chart">
-</p>
-
-<p align="center">
-  <img width="500" src="https://github.com/visionrd-ai/.github/assets/145563962/sample-inspection-flow.png" alt="Inspection Workflow">
-</p>
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=visionrd-ai&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionrd-ai&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img width="600" src="https://streak-stats.demolab.com?user=visionrd-ai&theme=radical&border_radius=5.5" alt="GitHub Streak">
-</p>
-
----
-
 ## 🧠 Why VisionRD?
 
 * 🔍 **High Accuracy**: Models trained on real-world data from production lines, not synthetic test sets.
 * ⚙️ **Production Ready**: Built to run in live environments with milliseconds latency.
 * 🌐 **Scalable Infrastructure**: Supports edge devices and cloud deployment.
 * ❤️ **Human-Centered**: Augments teams with AI, doesn’t replace them.
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=visionrd-ai&show_icons=true&theme=radical" alt="VisionRD GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionrd-ai&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=visionrd-ai&theme=dracula&no-frame=true&row=1" alt="Trophies" />
+</p>
 
 ---
 
@@ -92,7 +77,7 @@ We welcome collaboration, contributions, and feedback. Let's build something gre
 
 ## 🤝 Join Us
 
-Whether you're an AI researcher, industry professional, or someone with a great idea, we want to hear from you.
+Whether you're an AI researcher, industry professional, or someone with a great idea, we want to hear from you.  
 **Let’s build AI for impact. Together.**
 
 📫 [Contact us](https://visionrdai.com/#contact)
