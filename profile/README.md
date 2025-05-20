@@ -36,7 +36,6 @@ We are a team of machine learning engineers, computer vision researchers, and so
 
 ---
 
-
 ## 📊 GitHub Insights
 
 <p align="center">
