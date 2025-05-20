@@ -52,7 +52,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        
+        <img src="https://visionrdai.com/images/newRD/navbar-logo.svg" alt="GitHub Stats"/>
         <br><br>
         <a href="https://visionrdai.com/#contact">
           <img src="https://img.shields.io/badge/CONTACT_US-Schedule_a_Demo-FF4C4C?style=for-the-badge&labelColor=black" alt="Contact Us"/>
