@@ -52,7 +52,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=visionrd-ai&show_icons=true&count_private=true&hide_title=true&theme=radical&border_color=FF4C4C&icon_color=FF4C4C&bg_color=0D1117" alt="GitHub Stats"/>
+        <img src="https://camo.githubusercontent.com/5088c9c47744d02aa60562746ed88106ce6f64d9499fc3bf3678ab06949abe1b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d766973696f6e72642d61692673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f7469746c653d74727565267468656d653d7261646963616c26626f726465725f636f6c6f723d4646344334432669636f6e5f636f6c6f723d4646344334432662675f636f6c6f723d304431313137" alt="GitHub Stats"/>
         <br><br>
         <a href="https://visionrdai.com/#contact">
           <img src="https://img.shields.io/badge/CONTACT_US-Schedule_a_Demo-FF4C4C?style=for-the-badge&labelColor=black" alt="Contact Us"/>
@@ -102,10 +102,6 @@
 <h2 align="center">🚀 Industries We Transform</h2>
 
 <div align="center">
-  <img src="https://gist.githubusercontent.com/visionrd-ai/placeholder/raw/industry-grid.svg" alt="Industries Grid" width="100%"/>
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td align="center" width="20%">
@@ -140,36 +136,28 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <div style="background: linear-gradient(45deg, #FF4C4C, #FF8F8F); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <h2>🔍</h2>
-        </div>
+        <h2>🔍</h2>
         <h3>High Accuracy</h3>
         <p>Models trained on real-world data from production lines, not synthetic test sets.</p>
-        <div style="height: 5px; width: 50%; margin: 10px auto; background: linear-gradient(90deg, #FF4C4C, transparent);"></div>
+        <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓-99.7%25-FF4C4C" alt="Accuracy Bar"/>
       </td>
       <td align="center" width="25%">
-        <div style="background: linear-gradient(45deg, #FF4C4C, #FF8F8F); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <h2>⚙️</h2>
-        </div>
+        <h2>⚙️</h2>
         <h3>Production Ready</h3>
         <p>Built to run in live environments with milliseconds latency.</p>
-        <div style="height: 5px; width: 50%; margin: 10px auto; background: linear-gradient(90deg, #FF4C4C, transparent);"></div>
+        <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-95%25-FF4C4C" alt="Production Ready Bar"/>
       </td>
       <td align="center" width="25%">
-        <div style="background: linear-gradient(45deg, #FF4C4C, #FF8F8F); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <h2>🌐</h2>
-        </div>
+        <h2>🌐</h2>
         <h3>Scalable</h3>
         <p>Supports edge devices and cloud deployment.</p>
-        <div style="height: 5px; width: 50%; margin: 10px auto; background: linear-gradient(90deg, #FF4C4C, transparent);"></div>
+        <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓-100%25-FF4C4C" alt="Scalable Bar"/>
       </td>
       <td align="center" width="25%">
-        <div style="background: linear-gradient(45deg, #FF4C4C, #FF8F8F); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <h2>❤️</h2>
-        </div>
+        <h2>❤️</h2>
         <h3>Human-Centered</h3>
         <p>Augments teams with AI, doesn't replace them.</p>
-        <div style="height: 5px; width: 50%; margin: 10px auto; background: linear-gradient(90deg, #FF4C4C, transparent);"></div>
+        <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓-100%25-FF4C4C" alt="Human-Centered Bar"/>
       </td>
     </tr>
   </table>
@@ -202,19 +190,19 @@
         <h3>Automotive QA</h3>
         <img src="https://img.icons8.com/color/96/000000/car-production.png" width="48" alt="Automotive"/>
         <p>Reduced defect escape rate by 94% for a major automotive manufacturer</p>
-        <img src="https://progress-bar.dev/94?title=Defect%20Reduction&width=120&color=FF4C4C" alt="Progress Bar"/>
+        <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-94%25-FF4C4C" alt="Defect Reduction"/>
       </td>
       <td width="33%" align="center">
         <h3>PCB Manufacturing</h3>
         <img src="https://img.icons8.com/color/96/000000/circuit.png" width="48" alt="PCB"/>
         <p>Increased inspection throughput by 300% while improving accuracy</p>
-        <img src="https://progress-bar.dev/300?title=Throughput&width=120&color=FF4C4C" alt="Progress Bar"/>
+        <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓-300%25-FF4C4C" alt="Throughput"/>
       </td>
       <td width="33%" align="center">
         <h3>Document Processing</h3>
         <img src="https://img.icons8.com/color/96/000000/document.png" width="48" alt="Document"/>
         <p>Detected 99.8% of forged documents for a financial institution</p>
-        <img src="https://progress-bar.dev/99.8?title=Detection%20Rate&width=120&color=FF4C4C" alt="Progress Bar"/>
+        <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓-99.8%25-FF4C4C" alt="Detection Rate"/>
       </td>
     </tr>
   </table>
